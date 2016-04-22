@@ -1,0 +1,8 @@
+{
+  "name": "NodeClient",
+  "version": "0.0.1",
+  "description": "Code example for slackbot node network client",
+  "bin": "app.js",
+  "dependencies": {
+  }
+}
